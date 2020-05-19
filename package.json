@@ -1,0 +1,20 @@
+{
+  "name": "tftranktwitchbot",
+  "version": "1.0.0",
+  "description": "Twitch Bot used to fetch NA TFT ranks via the Riot Games API.",
+  "main": "tftrank.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/tomlawrence/TFTRankTwitchBot.git"
+  },
+  "author": "Tom Lawrence",
+  "license": "ISC"
+}
